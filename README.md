@@ -59,7 +59,7 @@ The dataset was cleaned using Microsoft Excel and Power Query through the follow
 ![Raw Dataset](images/raw_dataset.png)
 
 ### Cleaned Dataset (After Cleaning)
-![Cleaned Dataset](images/cleaned_dataset.png)
+https://github.com/Annozo-data/Decodelabs-data-cleaning-project/blob/Images/Cleaned%20Data_PJ1.JPG
 
 ---
 
